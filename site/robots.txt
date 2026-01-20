@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fractionalpulse.com/sitemap_index.xml
+Sitemap: https://fractionalpulse.com/sitemap.xml
