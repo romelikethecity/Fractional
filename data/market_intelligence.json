@@ -1,0 +1,63 @@
+{
+  "date": "January 29, 2026",
+  "total_jobs": 100,
+  "tools": {
+    "Rag": 52,
+    "Rust": 35,
+    "Aws": 31,
+    "Tableau": 6,
+    "Power Bi": 6,
+    "Salesforce": 3,
+    "Hubspot": 3,
+    "Trustpilot": 1,
+    "Hubspot Marketing": 1,
+    "Linkedin Sales Navigator": 1,
+    "Cohere": 1,
+    "Linkedin Marketing": 1,
+    "Arrows": 1,
+    "Docusign": 1
+  },
+  "hiring_signals": {
+    "Growth Hire": 59,
+    "Turnaround": 27,
+    "Immediate": 15
+  },
+  "comp_signals": {
+    "Equity": 59,
+    "Uncapped": 2
+  },
+  "segment": {
+    "Enterprise": 25,
+    "Mid Market": 8,
+    "Smb": 6,
+    "Fortune 500": 4
+  },
+  "motion": {
+    "Channel": 14
+  },
+  "geo_focus": {
+    "Global": 49,
+    "North America": 28,
+    "Apac": 7,
+    "Emea": 1
+  },
+  "team_structure": {
+    "Build Team": 29,
+    "Reports Cro": 10,
+    "First Hire": 4,
+    "Reports Vp": 4,
+    "Reports Ceo": 3,
+    "Player Coach": 1
+  },
+  "deal_size": {
+    "Seven Figure": 16,
+    "Enterprise Deal": 9,
+    "Transactional": 3
+  },
+  "sales_cycle": {
+    "Short": 2
+  },
+  "methodology": {
+    "Value Selling": 1
+  }
+}

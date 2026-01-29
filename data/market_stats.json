@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-01-20",
-  "total_active_listings": 28,
+  "last_updated": "2026-01-29",
+  "total_active_listings": 100,
   "compensation": {
-    "sample_size": 15,
-    "avg_hourly_rate": 93.0,
-    "median_hourly_rate": 75.0,
-    "disclosure_rate": 53.6
+    "sample_size": 55,
+    "avg_hourly_rate": 124,
+    "median_hourly_rate": 125,
+    "disclosure_rate": 55.0
   },
   "trends": {}
 }

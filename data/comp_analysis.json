@@ -1,0 +1,169 @@
+{
+  "generated_at": "2026-01-29T22:19:50.947528",
+  "total_records": 100,
+  "records_with_salary": 55,
+  "disclosure_rate": 55.0,
+  "salary_stats": {
+    "min": 36000,
+    "max": 624000,
+    "median": 133400,
+    "avg": 136351,
+    "count_with_salary": 55
+  },
+  "by_seniority": {
+    "Unknown": {
+      "count": 12,
+      "min_base_avg": 127215,
+      "max_base_avg": 198463,
+      "median": 135000
+    },
+    "C-Level": {
+      "count": 6,
+      "min_base_avg": 164765,
+      "max_base_avg": 207798,
+      "median": 190000
+    },
+    "Entry": {
+      "count": 4,
+      "min_base_avg": 64693,
+      "max_base_avg": 82039,
+      "median": 65000
+    },
+    "VP": {
+      "count": 5,
+      "min_base_avg": 148382,
+      "max_base_avg": 225144,
+      "median": 160000
+    },
+    "Mid": {
+      "count": 9,
+      "min_base_avg": 103978,
+      "max_base_avg": 176540,
+      "median": 124910
+    },
+    "Senior": {
+      "count": 16,
+      "min_base_avg": 151322,
+      "max_base_avg": 218918,
+      "median": 173600
+    }
+  },
+  "by_metro": {
+    "Unknown": {
+      "count": 25,
+      "min_base_avg": 121414,
+      "max_base_avg": 189738,
+      "median": 124910
+    },
+    "Los Angeles": {
+      "count": 7,
+      "min_base_avg": 170194,
+      "max_base_avg": 225731,
+      "median": 173600
+    },
+    "Chicago": {
+      "count": 4,
+      "min_base_avg": 108377,
+      "max_base_avg": 174775,
+      "median": 124910
+    },
+    "Boston": {
+      "count": 3,
+      "min_base_avg": 162866,
+      "max_base_avg": 209100,
+      "median": 173600
+    },
+    "New York": {
+      "count": 12,
+      "min_base_avg": 132542,
+      "max_base_avg": 191208,
+      "median": 130000
+    }
+  },
+  "by_remote": {
+    "remote": {
+      "count": 7,
+      "min_base_avg": 126385,
+      "max_base_avg": 224984,
+      "median": 73395
+    },
+    "onsite": {
+      "count": 47,
+      "min_base_avg": 137332,
+      "max_base_avg": 195359,
+      "median": 133400
+    }
+  },
+  "top_paying_roles": [
+    {
+      "title": "Advisory Board Member || US Resident",
+      "company": "WideXP",
+      "salary_min": 208000.0,
+      "salary_max": 624000.0,
+      "seniority": ""
+    },
+    {
+      "title": "VP Contracts & Procurement - Herndon, VA/Hybrid (2 days onsite)",
+      "company": "Serco",
+      "salary_min": 207902.0,
+      "salary_max": 415804.0,
+      "seniority": "VP"
+    },
+    {
+      "title": "AVP Contracting-Proactive Care Support Services",
+      "company": "Intermountain Health",
+      "salary_min": 212160.0,
+      "salary_max": 328640.0,
+      "seniority": ""
+    },
+    {
+      "title": "Fractional CFO- Construction Industry",
+      "company": "A&M Warshaw Plumbing & Heating Inc",
+      "salary_min": 187200.0,
+      "salary_max": 312000.0,
+      "seniority": ""
+    },
+    {
+      "title": "Director - Consulting & Advisory Services – Quantum - 656",
+      "company": "Quantinuum",
+      "salary_min": 246400.0,
+      "salary_max": 308000.0,
+      "seniority": "Director"
+    },
+    {
+      "title": "Chief Financial Officer – Construction | General Contractor Dallas, Texas",
+      "company": "Construction Project Management Services, Inc.",
+      "salary_min": 250000.0,
+      "salary_max": 300000.0,
+      "seniority": "C-Level"
+    },
+    {
+      "title": "Director of Client Advisory",
+      "company": "Rich Data Co",
+      "salary_min": 200000.0,
+      "salary_max": 275000.0,
+      "seniority": "Director"
+    },
+    {
+      "title": "Fractional CFO",
+      "company": "Ascent CFO Solutions",
+      "salary_min": 239200.0,
+      "salary_max": 270400.0,
+      "seniority": "C-Level"
+    },
+    {
+      "title": "Provider Contracting Lead (Director), Americas - Remote - Cigna International Health",
+      "company": "The Cigna Group",
+      "salary_min": 156700.0,
+      "salary_max": 261100.0,
+      "seniority": "Senior"
+    },
+    {
+      "title": "Vice President- Advisory Partner, Insurance Applied Advisory",
+      "company": "Genpact",
+      "salary_min": 200000.0,
+      "salary_max": 250000.0,
+      "seniority": "VP"
+    }
+  ]
+}
