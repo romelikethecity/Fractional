@@ -1,97 +1,115 @@
 {
-  "generated_at": "2026-01-29T22:19:50.947528",
-  "total_records": 100,
-  "records_with_salary": 55,
-  "disclosure_rate": 55.0,
+  "generated_at": "2026-01-30T15:09:50.485837",
+  "total_records": 319,
+  "records_with_salary": 183,
+  "disclosure_rate": 57.4,
   "salary_stats": {
-    "min": 36000,
+    "min": 18000,
     "max": 624000,
-    "median": 133400,
-    "avg": 136351,
-    "count_with_salary": 55
+    "median": 95000,
+    "avg": 106989,
+    "count_with_salary": 183
   },
   "by_seniority": {
     "Unknown": {
-      "count": 12,
-      "min_base_avg": 127215,
-      "max_base_avg": 198463,
-      "median": 135000
+      "count": 35,
+      "min_base_avg": 109279,
+      "max_base_avg": 163150,
+      "median": 125000
     },
     "C-Level": {
-      "count": 6,
-      "min_base_avg": 164765,
-      "max_base_avg": 207798,
-      "median": 190000
+      "count": 17,
+      "min_base_avg": 117034,
+      "max_base_avg": 162922,
+      "median": 95000
     },
     "Entry": {
-      "count": 4,
-      "min_base_avg": 64693,
-      "max_base_avg": 82039,
-      "median": 65000
+      "count": 11,
+      "min_base_avg": 65066,
+      "max_base_avg": 92281,
+      "median": 72800
     },
     "VP": {
-      "count": 5,
-      "min_base_avg": 148382,
-      "max_base_avg": 225144,
-      "median": 160000
+      "count": 8,
+      "min_base_avg": 140097,
+      "max_base_avg": 203840,
+      "median": 150000
     },
     "Mid": {
-      "count": 9,
-      "min_base_avg": 103978,
-      "max_base_avg": 176540,
-      "median": 124910
+      "count": 31,
+      "min_base_avg": 56220,
+      "max_base_avg": 80776,
+      "median": 35360
     },
     "Senior": {
-      "count": 16,
-      "min_base_avg": 151322,
-      "max_base_avg": 218918,
-      "median": 173600
+      "count": 64,
+      "min_base_avg": 113638,
+      "max_base_avg": 172957,
+      "median": 114400
+    },
+    "Director": {
+      "count": 14,
+      "min_base_avg": 185714,
+      "max_base_avg": 245418,
+      "median": 193509
     }
   },
   "by_metro": {
     "Unknown": {
-      "count": 25,
-      "min_base_avg": 121414,
-      "max_base_avg": 189738,
-      "median": 124910
+      "count": 124,
+      "min_base_avg": 93503,
+      "max_base_avg": 138007,
+      "median": 90000
     },
     "Los Angeles": {
-      "count": 7,
-      "min_base_avg": 170194,
-      "max_base_avg": 225731,
-      "median": 173600
+      "count": 17,
+      "min_base_avg": 134194,
+      "max_base_avg": 197660,
+      "median": 135000
     },
     "Chicago": {
-      "count": 4,
-      "min_base_avg": 108377,
-      "max_base_avg": 174775,
+      "count": 5,
+      "min_base_avg": 113087,
+      "max_base_avg": 183365,
       "median": 124910
     },
     "Boston": {
-      "count": 3,
-      "min_base_avg": 162866,
-      "max_base_avg": 209100,
-      "median": 173600
+      "count": 7,
+      "min_base_avg": 143366,
+      "max_base_avg": 190251,
+      "median": 145000
     },
     "New York": {
-      "count": 12,
-      "min_base_avg": 132542,
-      "max_base_avg": 191208,
+      "count": 18,
+      "min_base_avg": 137292,
+      "max_base_avg": 196099,
       "median": 130000
+    },
+    "San Francisco": {
+      "count": 5,
+      "min_base_avg": 93704,
+      "max_base_avg": 130984,
+      "median": 80000
     }
   },
   "by_remote": {
     "remote": {
-      "count": 7,
-      "min_base_avg": 126385,
-      "max_base_avg": 224984,
-      "median": 73395
+      "count": 24,
+      "min_base_avg": 92028,
+      "max_base_avg": 156867,
+      "median": 75000
     },
     "onsite": {
-      "count": 47,
-      "min_base_avg": 137332,
-      "max_base_avg": 195359,
-      "median": 133400
+      "count": 156,
+      "min_base_avg": 109474,
+      "max_base_avg": 156218,
+      "median": 101400
+    },
+    "Unknown": {
+      "count": 3,
+      "min_base_avg": 97466,
+      "max_base_avg": 124400,
+      "median": 70000
     }
   },
   "top_paying_roles": [
@@ -108,6 +126,34 @@
       "salary_min": 207902.0,
       "salary_max": 415804.0,
       "seniority": "VP"
+    },
+    {
+      "title": "USA Advisory and Professional Services Sovereign AI Enterprise Architect",
+      "company": "Hewlett Packard Enterprise | HPE",
+      "salary_min": 161000.0,
+      "salary_max": 378000.0,
+      "seniority": "Senior"
+    },
+    {
+      "title": "Executive/Senior Director, Contracts Attorney",
+      "company": "Immunome, Inc.",
+      "salary_min": 302450.0,
+      "salary_max": 334321.0,
+      "seniority": ""
+    },
+    {
+      "title": "Director, Transaction Advisory",
+      "company": "Meta",
+      "salary_min": 288000.0,
+      "salary_max": 332000.0,
+      "seniority": "Director"
+    },
+    {
+      "title": "Director, Transaction Advisory",
+      "company": "Meta",
+      "salary_min": 288000.0,
+      "salary_max": 332000.0,
+      "seniority": "Director"
     },
     {
       "title": "AVP Contracting-Proactive Care Support Services",
@@ -131,39 +177,11 @@
       "seniority": "Director"
     },
     {
-      "title": "Chief Financial Officer – Construction | General Contractor Dallas, Texas",
-      "company": "Construction Project Management Services, Inc.",
-      "salary_min": 250000.0,
-      "salary_max": 300000.0,
+      "title": "M&A Advisory Lawyer (Assistant General Counsel - VP)",
+      "company": "Wells Fargo",
+      "salary_min": 191000.0,
+      "salary_max": 305000.0,
       "seniority": "C-Level"
-    },
-    {
-      "title": "Director of Client Advisory",
-      "company": "Rich Data Co",
-      "salary_min": 200000.0,
-      "salary_max": 275000.0,
-      "seniority": "Director"
-    },
-    {
-      "title": "Fractional CFO",
-      "company": "Ascent CFO Solutions",
-      "salary_min": 239200.0,
-      "salary_max": 270400.0,
-      "seniority": "C-Level"
-    },
-    {
-      "title": "Provider Contracting Lead (Director), Americas - Remote - Cigna International Health",
-      "company": "The Cigna Group",
-      "salary_min": 156700.0,
-      "salary_max": 261100.0,
-      "seniority": "Senior"
-    },
-    {
-      "title": "Vice President- Advisory Partner, Insurance Applied Advisory",
-      "company": "Genpact",
-      "salary_min": 200000.0,
-      "salary_max": 250000.0,
-      "seniority": "VP"
     }
   ]
 }

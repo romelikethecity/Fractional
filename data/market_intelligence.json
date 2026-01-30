@@ -1,63 +1,95 @@
 {
-  "date": "January 29, 2026",
-  "total_jobs": 100,
+  "date": "January 30, 2026",
+  "total_jobs": 319,
   "tools": {
-    "Rag": 52,
-    "Rust": 35,
-    "Aws": 31,
-    "Tableau": 6,
+    "Rag": 122,
+    "Rust": 109,
+    "Aws": 57,
+    "Salesforce": 13,
+    "Tableau": 7,
+    "Hubspot": 7,
     "Power Bi": 6,
-    "Salesforce": 3,
-    "Hubspot": 3,
+    "Dynamics 365": 6,
+    "Gcp": 4,
+    "Python": 3,
+    "Fathom": 3,
+    "Chroma": 3,
+    "Zapier": 2,
+    "Prompt Engineering": 2,
+    "Javascript": 2,
+    "Catalyst": 2,
+    "Azure": 2,
     "Trustpilot": 1,
     "Hubspot Marketing": 1,
     "Linkedin Sales Navigator": 1,
     "Cohere": 1,
     "Linkedin Marketing": 1,
     "Arrows": 1,
-    "Docusign": 1
+    "Docusign": 1,
+    "Vertex Ai": 1,
+    "Golang": 1,
+    "Loom": 1,
+    "Sendspark": 1,
+    "Zoho Crm": 1,
+    "Mailchimp": 1,
+    "Salesloft": 1,
+    "Apollo": 1,
+    "Rb2B": 1,
+    "Rollworks": 1,
+    "Zoominfo": 1,
+    "Anthropic": 1
   },
   "hiring_signals": {
-    "Growth Hire": 59,
-    "Turnaround": 27,
-    "Immediate": 15
+    "Growth Hire": 162,
+    "Turnaround": 60,
+    "Immediate": 20
   },
   "comp_signals": {
-    "Equity": 59,
-    "Uncapped": 2
+    "Equity": 124,
+    "Ote Mentioned": 9,
+    "Uncapped": 7
   },
   "segment": {
-    "Enterprise": 25,
-    "Mid Market": 8,
-    "Smb": 6,
-    "Fortune 500": 4
+    "Enterprise": 49,
+    "Fortune 500": 23,
+    "Smb": 16,
+    "Mid Market": 12
   },
   "motion": {
-    "Channel": 14
+    "Channel": 45,
+    "Inside": 5,
+    "Inbound": 2,
+    "Outbound": 2,
+    "Abm": 1,
+    "Direct": 1
   },
   "geo_focus": {
-    "Global": 49,
-    "North America": 28,
-    "Apac": 7,
-    "Emea": 1
+    "Global": 100,
+    "North America": 55,
+    "Apac": 12,
+    "Emea": 6,
+    "Latam": 2
   },
   "team_structure": {
-    "Build Team": 29,
-    "Reports Cro": 10,
-    "First Hire": 4,
-    "Reports Vp": 4,
-    "Reports Ceo": 3,
+    "Build Team": 79,
+    "Reports Cro": 21,
+    "First Hire": 17,
+    "Reports Ceo": 6,
+    "Reports Vp": 6,
     "Player Coach": 1
   },
   "deal_size": {
-    "Seven Figure": 16,
-    "Enterprise Deal": 9,
-    "Transactional": 3
+    "Seven Figure": 23,
+    "Enterprise Deal": 12,
+    "Transactional": 8,
+    "Mid Deal": 3
   },
   "sales_cycle": {
-    "Short": 2
+    "Short": 7,
+    "Long": 1
   },
   "methodology": {
-    "Value Selling": 1
+    "Value Selling": 2,
+    "Solution Selling": 1
   }
 }
