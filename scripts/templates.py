@@ -8,6 +8,11 @@ from nav_config import (
     SITE_NAME, BASE_URL, LOGO_TEXT, NAV_ITEMS, HEADER_CTA,
     FOOTER_COLUMNS, COPYRIGHT_TEXT
 )
+try:
+    from tracking_config import get_analytics_scripts
+    TRACKING_CODE = get_analytics_scripts()
+except Exception:
+    TRACKING_CODE = ""
 
 # =============================================================================
 # CSS VARIABLES
@@ -800,7 +805,7 @@ def get_html_head(title, description, canonical_path="/", extra_head=""):
     return f'''<!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
+    <meta charset="UTF-8">{TRACKING_CODE}
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{title} | {SITE_NAME}</title>
     <meta name="description" content="{description}">

@@ -5,7 +5,7 @@ Update these IDs when analytics accounts are set up.
 """
 
 # Google Analytics 4
-GA4_ID = ""  # e.g., "G-XXXXXXXXXX"
+GA4_ID = "G-4XJB2YNHFC"
 
 # Microsoft Clarity
 CLARITY_ID = ""  # e.g., "abcdefghij"
